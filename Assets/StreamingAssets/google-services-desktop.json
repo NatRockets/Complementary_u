@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "4651437258",
+    "project_id": "complementary-hue",
+    "storage_bucket": "complementary-hue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4651437258:ios:02ad692d4f5b7ca5003833",
+        "android_client_info": {
+          "package_name": "com.cha.col.compleme"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe5nPXQBIoJsY_mbkAUS2FzE-TvUKDut4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
